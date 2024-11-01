@@ -1,0 +1,310 @@
+2024-07-26 15:36:47,676 INFO:Connected with result code 0
+2024-07-26 15:36:48,981 INFO:Image captured and saved to ./image_0001.jpg
+2024-07-26 15:36:48,984 INFO:Image ./image_0001.jpg published successfully.
+2024-07-26 15:36:49,227 INFO:Message published with mid 1
+2024-07-26 15:37:00,330 INFO:Image captured and saved to ./image_0002.jpg
+2024-07-26 15:37:00,333 INFO:Image ./image_0002.jpg published successfully.
+2024-07-26 15:37:00,697 INFO:Message published with mid 2
+2024-07-26 15:37:11,678 INFO:Image captured and saved to ./image_0003.jpg
+2024-07-26 15:37:11,680 INFO:Image ./image_0003.jpg published successfully.
+2024-07-26 15:37:11,941 INFO:Message published with mid 3
+2024-07-26 15:37:23,065 INFO:Image captured and saved to ./image_0004.jpg
+2024-07-26 15:37:23,068 INFO:Image ./image_0004.jpg published successfully.
+2024-07-26 15:37:23,325 INFO:Message published with mid 4
+2024-07-26 15:37:34,397 INFO:Image captured and saved to ./image_0005.jpg
+2024-07-26 15:37:34,400 INFO:Image ./image_0005.jpg published successfully.
+2024-07-26 15:37:34,666 INFO:Message published with mid 5
+2024-08-02 17:42:46,856 INFO:Connected with result code 5
+2024-08-02 17:42:48,160 INFO:Image captured and saved to ./image_0006.jpg
+2024-08-02 17:42:48,163 INFO:Image ./image_0006.jpg published successfully.
+2024-08-02 17:42:52,360 INFO:Connected with result code 3
+2024-08-02 17:42:54,522 INFO:Connected with result code 5
+2024-08-02 17:42:58,617 INFO:Connected with result code 5
+2024-08-02 17:42:59,491 INFO:Image captured and saved to ./image_0007.jpg
+2024-08-02 17:42:59,493 ERROR:Failed to publish image ./image_0007.jpg. Error code: 4
+2024-08-02 17:43:06,706 INFO:Connected with result code 5
+2024-08-02 17:43:10,817 INFO:Image captured and saved to ./image_0008.jpg
+2024-08-02 17:43:10,820 ERROR:Failed to publish image ./image_0008.jpg. Error code: 4
+2024-08-02 17:43:22,149 INFO:Image captured and saved to ./image_0009.jpg
+2024-08-02 17:43:22,155 ERROR:Failed to publish image ./image_0009.jpg. Error code: 4
+2024-08-02 17:43:22,901 INFO:Connected with result code 5
+2024-08-02 17:43:33,549 INFO:Image captured and saved to ./image_0010.jpg
+2024-08-02 17:43:33,552 ERROR:Failed to publish image ./image_0010.jpg. Error code: 4
+2024-08-02 17:43:44,951 INFO:Image captured and saved to ./image_0011.jpg
+2024-08-02 17:43:44,954 ERROR:Failed to publish image ./image_0011.jpg. Error code: 4
+2024-08-02 17:43:55,002 INFO:Connected with result code 5
+2024-08-02 17:43:56,351 INFO:Image captured and saved to ./image_0012.jpg
+2024-08-02 17:43:56,353 ERROR:Failed to publish image ./image_0012.jpg. Error code: 4
+2024-08-02 17:44:07,744 INFO:Image captured and saved to ./image_0013.jpg
+2024-08-02 17:44:07,748 ERROR:Failed to publish image ./image_0013.jpg. Error code: 4
+2024-08-02 17:44:19,138 INFO:Image captured and saved to ./image_0014.jpg
+2024-08-02 17:44:19,142 ERROR:Failed to publish image ./image_0014.jpg. Error code: 4
+2024-08-02 17:44:30,533 INFO:Image captured and saved to ./image_0015.jpg
+2024-08-02 17:44:30,536 ERROR:Failed to publish image ./image_0015.jpg. Error code: 4
+2024-08-02 17:44:41,924 INFO:Image captured and saved to ./image_0016.jpg
+2024-08-02 17:44:41,926 ERROR:Failed to publish image ./image_0016.jpg. Error code: 4
+2024-08-02 17:44:53,269 INFO:Image captured and saved to ./image_0017.jpg
+2024-08-02 17:44:53,271 ERROR:Failed to publish image ./image_0017.jpg. Error code: 4
+2024-08-02 17:44:59,103 INFO:Connected with result code 5
+2024-08-02 17:45:04,627 INFO:Image captured and saved to ./image_0018.jpg
+2024-08-02 17:45:04,630 ERROR:Failed to publish image ./image_0018.jpg. Error code: 4
+2024-08-02 17:45:15,972 INFO:Image captured and saved to ./image_0019.jpg
+2024-08-02 17:45:15,975 ERROR:Failed to publish image ./image_0019.jpg. Error code: 4
+2024-08-02 17:45:27,365 INFO:Image captured and saved to ./image_0020.jpg
+2024-08-02 17:45:27,368 ERROR:Failed to publish image ./image_0020.jpg. Error code: 4
+2024-08-02 17:45:38,695 INFO:Image captured and saved to ./image_0021.jpg
+2024-08-02 17:45:38,699 ERROR:Failed to publish image ./image_0021.jpg. Error code: 4
+2024-08-02 17:45:50,037 INFO:Image captured and saved to ./image_0022.jpg
+2024-08-02 17:45:50,039 ERROR:Failed to publish image ./image_0022.jpg. Error code: 4
+2024-08-02 17:46:01,368 INFO:Image captured and saved to ./image_0023.jpg
+2024-08-02 17:46:01,370 ERROR:Failed to publish image ./image_0023.jpg. Error code: 4
+2024-08-02 17:46:12,664 INFO:Image captured and saved to ./image_0024.jpg
+2024-08-02 17:46:12,667 ERROR:Failed to publish image ./image_0024.jpg. Error code: 4
+2024-08-02 17:46:24,010 INFO:Image captured and saved to ./image_0025.jpg
+2024-08-02 17:46:24,012 ERROR:Failed to publish image ./image_0025.jpg. Error code: 4
+2024-08-02 17:46:35,335 INFO:Image captured and saved to ./image_0026.jpg
+2024-08-02 17:46:35,337 ERROR:Failed to publish image ./image_0026.jpg. Error code: 4
+2024-08-02 17:46:46,679 INFO:Image captured and saved to ./image_0027.jpg
+2024-08-02 17:46:46,681 ERROR:Failed to publish image ./image_0027.jpg. Error code: 4
+2024-08-03 13:22:35,284 INFO:Connected with result code 0
+2024-08-03 13:22:36,577 INFO:Image captured and saved to ./image_0028.jpg
+2024-08-03 13:22:36,579 INFO:Image ./image_0028.jpg published successfully.
+2024-08-03 13:22:36,883 INFO:Message published with mid 1
+2024-08-03 13:22:47,884 INFO:Image captured and saved to ./image_0029.jpg
+2024-08-03 13:22:47,886 INFO:Image ./image_0029.jpg published successfully.
+2024-08-03 13:22:48,236 INFO:Message published with mid 2
+2024-08-03 13:22:59,196 INFO:Image captured and saved to ./image_0030.jpg
+2024-08-03 13:22:59,198 INFO:Image ./image_0030.jpg published successfully.
+2024-08-03 13:22:59,582 INFO:Message published with mid 3
+2024-08-03 13:24:59,135 INFO:Connected with result code 0
+2024-08-03 13:25:00,433 INFO:Image captured and saved to ./image_0031.jpg
+2024-08-03 13:25:00,435 INFO:Image ./image_0031.jpg published successfully.
+2024-08-03 13:25:00,739 INFO:Message published with mid 1
+2024-08-03 13:54:57,279 INFO:Connected with result code 0
+2024-08-03 13:54:58,638 INFO:Image captured and saved to ./image_0032.jpg
+2024-08-03 13:54:58,642 INFO:Image ./image_0032.jpg published successfully.
+2024-08-03 13:54:58,988 INFO:Message published with mid 1
+2024-08-03 13:55:10,033 INFO:Image captured and saved to ./image_0033.jpg
+2024-08-03 13:55:10,035 INFO:Image ./image_0033.jpg published successfully.
+2024-08-03 13:55:10,752 INFO:Message published with mid 2
+2024-08-03 13:55:21,396 INFO:Image captured and saved to ./image_0034.jpg
+2024-08-03 13:55:21,398 INFO:Image ./image_0034.jpg published successfully.
+2024-08-03 13:58:55,045 INFO:Connected with result code 0
+2024-08-03 13:58:56,329 INFO:Image captured and saved to ./image_0035.jpg
+2024-08-03 13:58:56,332 INFO:Image ./image_0035.jpg published successfully.
+2024-08-03 13:58:56,804 INFO:Message published with mid 1
+2024-08-03 16:31:51,586 INFO:Connected with result code 0
+2024-08-03 16:31:52,854 INFO:Image captured and saved to ./image_0036.jpg
+2024-08-03 16:31:52,857 INFO:Image ./image_0036.jpg published successfully.
+2024-08-03 16:31:53,147 INFO:Message published with mid 1
+2024-08-03 16:32:54,200 INFO:Image captured and saved to ./image_0037.jpg
+2024-08-03 16:32:54,202 INFO:Image ./image_0037.jpg published successfully.
+2024-08-03 16:32:54,476 INFO:Message published with mid 2
+2024-08-03 16:33:55,576 INFO:Image captured and saved to ./image_0038.jpg
+2024-08-03 16:33:55,579 INFO:Image ./image_0038.jpg published successfully.
+2024-08-03 16:33:55,930 INFO:Message published with mid 3
+2024-08-03 16:34:11,413 INFO:Keyboard interrupt detected. Stopping the script.
+2024-08-03 16:34:12,866 INFO:Connected with result code 0
+2024-08-03 16:34:13,740 INFO:Image captured and saved to ./image_0039.jpg
+2024-08-03 16:34:13,743 INFO:Image ./image_0039.jpg published successfully.
+2024-08-03 16:34:14,144 INFO:Message published with mid 1
+2024-08-03 16:39:47,269 INFO:Connected with result code 0
+2024-08-03 16:39:48,536 INFO:Image captured and saved to ./image_0040.jpg
+2024-08-03 16:39:48,538 INFO:Image ./image_0040.jpg published successfully.
+2024-08-03 16:39:48,863 INFO:Message published with mid 1
+2024-08-03 16:40:49,944 INFO:Image captured and saved to ./image_0041.jpg
+2024-08-03 16:40:49,947 INFO:Image ./image_0041.jpg published successfully.
+2024-08-03 16:40:50,731 INFO:Message published with mid 2
+2024-08-03 16:41:51,343 INFO:Image captured and saved to ./image_0042.jpg
+2024-08-03 16:41:51,347 INFO:Image ./image_0042.jpg published successfully.
+2024-08-03 16:41:52,221 INFO:Message published with mid 3
+2024-08-05 09:42:56,677 INFO:Connected with result code 0
+2024-08-05 09:42:58,045 INFO:Image captured and saved to ./image_0043.jpg
+2024-08-05 09:42:58,047 INFO:Image ./image_0043.jpg published successfully.
+2024-08-05 09:42:58,326 INFO:Message published with mid 1
+2024-08-05 10:04:27,538 INFO:Connected with result code 0
+2024-08-05 10:04:28,809 INFO:Image captured and saved to ./image_0044.jpg
+2024-08-05 10:04:28,810 INFO:Image ./image_0044.jpg published successfully.
+2024-08-05 10:04:29,142 INFO:Message published with mid 1
+2024-08-05 10:22:22,911 INFO:Connected with result code 0
+2024-08-05 10:22:24,151 INFO:Image captured and saved to ./image_0045.jpg
+2024-08-05 10:22:24,154 INFO:Image ./image_0045.jpg published successfully.
+2024-08-05 10:22:24,465 INFO:Message published with mid 1
+2024-08-05 10:32:36,684 INFO:Connected with result code 0
+2024-08-05 10:32:37,924 INFO:Image captured and saved to ./image_0046.jpg
+2024-08-05 10:32:37,926 INFO:Image ./image_0046.jpg published successfully.
+2024-08-05 10:32:38,267 INFO:Message published with mid 1
+2024-08-05 10:46:46,016 INFO:Connected with result code 0
+2024-08-05 10:46:47,323 INFO:Image captured and saved to ./image_0047.jpg
+2024-08-05 10:46:47,326 INFO:Image ./image_0047.jpg published successfully.
+2024-08-05 10:46:48,207 INFO:Message published with mid 1
+2024-08-05 10:47:48,725 INFO:Image captured and saved to ./image_0048.jpg
+2024-08-05 10:47:48,727 INFO:Image ./image_0048.jpg published successfully.
+2024-08-05 10:47:49,239 INFO:Message published with mid 2
+2024-08-08 11:41:16,645 INFO:Connecting to broker 192.168.1.79:1883
+2024-08-08 11:41:17,752 INFO:Connecting to broker 192.168.1.79:1883
+2024-08-08 12:36:39,076 INFO:Connecting to broker 192.168.1.79:1883
+2024-08-08 12:52:28,204 INFO:Connecting to broker 192.168.1.79:1883
+2024-08-08 12:52:28,251 INFO:Connected to broker 192.168.1.79:1883 with result code 0
+2024-08-08 12:52:29,570 INFO:Image captured and saved to ./image_0049.jpg
+2024-08-08 12:52:29,572 INFO:Image ./image_0049.jpg published successfully.
+2024-08-08 12:52:29,700 INFO:Message published with mid 1
+2024-08-08 12:53:19,053 INFO:Connecting to broker 192.168.1.79:1883
+2024-08-08 12:53:19,070 INFO:Connected to broker 192.168.1.79:1883 with result code 0
+2024-08-08 12:53:20,381 INFO:Image captured and saved to ./image_0050.jpg
+2024-08-08 12:53:20,383 INFO:Image ./image_0050.jpg published successfully.
+2024-08-08 12:53:20,505 INFO:Message published with mid 1
+2024-08-08 12:53:31,711 INFO:Image captured and saved to ./image_0051.jpg
+2024-08-08 12:53:31,713 INFO:Image ./image_0051.jpg published successfully.
+2024-08-08 12:53:31,854 INFO:Message published with mid 2
+2024-08-08 12:53:43,007 INFO:Image captured and saved to ./image_0052.jpg
+2024-08-08 12:53:43,009 INFO:Image ./image_0052.jpg published successfully.
+2024-08-08 12:53:43,126 INFO:Message published with mid 3
+2024-08-09 12:13:32,130 INFO:Connecting to broker 192.168.1.79:1883
+2024-08-09 12:13:32,223 INFO:Connected to broker 192.168.1.79:1883 with result code 0
+2024-08-09 12:13:33,550 INFO:Image captured and saved to ./image_0053.jpg
+2024-08-09 12:13:33,553 INFO:Image ./image_0053.jpg published successfully.
+2024-08-09 12:13:33,684 INFO:Message published with mid 1
+2024-08-09 12:13:44,949 INFO:Image captured and saved to ./image_0054.jpg
+2024-08-09 12:13:44,952 INFO:Image ./image_0054.jpg published successfully.
+2024-08-09 12:13:45,092 INFO:Message published with mid 2
+2024-08-09 12:13:56,342 INFO:Image captured and saved to ./image_0055.jpg
+2024-08-09 12:13:56,345 INFO:Image ./image_0055.jpg published successfully.
+2024-08-09 12:13:56,513 INFO:Message published with mid 3
+2024-08-09 12:14:07,703 INFO:Image captured and saved to ./image_0056.jpg
+2024-08-09 12:14:07,707 INFO:Image ./image_0056.jpg published successfully.
+2024-08-09 12:14:07,891 INFO:Message published with mid 4
+2024-08-09 12:14:19,054 INFO:Image captured and saved to ./image_0057.jpg
+2024-08-09 12:14:19,057 INFO:Image ./image_0057.jpg published successfully.
+2024-08-09 12:14:19,243 INFO:Message published with mid 5
+2024-08-09 12:54:14,467 INFO:Connecting to broker 192.168.1.79:1883
+2024-08-09 12:54:14,482 INFO:Connected to broker 192.168.1.79:1883 with result code 0
+2024-08-09 12:54:15,823 INFO:Image captured and saved to ./image_0058.jpg
+2024-08-09 12:54:15,826 INFO:Image ./image_0058.jpg published successfully.
+2024-08-09 12:54:15,950 INFO:Message published with mid 1
+2024-08-09 12:54:27,238 INFO:Image captured and saved to ./image_0059.jpg
+2024-08-09 12:54:27,241 INFO:Image ./image_0059.jpg published successfully.
+2024-08-09 12:54:27,394 INFO:Message published with mid 2
+2024-08-09 12:54:38,640 INFO:Image captured and saved to ./image_0060.jpg
+2024-08-09 12:54:38,643 INFO:Image ./image_0060.jpg published successfully.
+2024-08-09 12:54:38,791 INFO:Message published with mid 3
+2024-08-09 12:54:50,050 INFO:Image captured and saved to ./image_0061.jpg
+2024-08-09 12:54:50,052 INFO:Image ./image_0061.jpg published successfully.
+2024-08-09 12:54:50,215 INFO:Message published with mid 4
+2024-08-09 12:55:01,443 INFO:Image captured and saved to ./image_0062.jpg
+2024-08-09 12:55:01,446 INFO:Image ./image_0062.jpg published successfully.
+2024-08-09 12:55:01,571 INFO:Message published with mid 5
+2024-08-09 12:55:12,819 INFO:Image captured and saved to ./image_0063.jpg
+2024-08-09 12:55:12,822 INFO:Image ./image_0063.jpg published successfully.
+2024-08-09 12:55:12,939 INFO:Message published with mid 6
+2024-08-09 12:55:24,132 INFO:Image captured and saved to ./image_0064.jpg
+2024-08-09 12:55:24,134 INFO:Image ./image_0064.jpg published successfully.
+2024-08-09 12:55:24,274 INFO:Message published with mid 7
+2024-08-09 12:55:35,476 INFO:Image captured and saved to ./image_0065.jpg
+2024-08-09 12:55:35,480 INFO:Image ./image_0065.jpg published successfully.
+2024-08-09 12:55:35,616 INFO:Message published with mid 8
+2024-08-09 12:55:46,851 INFO:Image captured and saved to ./image_0066.jpg
+2024-08-09 12:55:46,853 INFO:Image ./image_0066.jpg published successfully.
+2024-08-09 12:55:46,997 INFO:Message published with mid 9
+2024-08-09 12:55:58,245 INFO:Image captured and saved to ./image_0067.jpg
+2024-08-09 12:55:58,247 INFO:Image ./image_0067.jpg published successfully.
+2024-08-09 12:55:58,391 INFO:Message published with mid 10
+2024-08-09 12:56:09,591 INFO:Image captured and saved to ./image_0068.jpg
+2024-08-09 12:56:09,594 INFO:Image ./image_0068.jpg published successfully.
+2024-08-09 12:56:09,732 INFO:Message published with mid 11
+2024-08-09 12:56:17,459 INFO:Keyboard interrupt detected. Stopping the script.
+2024-08-09 12:56:18,189 INFO:Connecting to broker 192.168.1.79:1883
+2024-08-09 12:56:18,202 INFO:Connected to broker 192.168.1.79:1883 with result code 0
+2024-08-09 12:56:19,583 INFO:Image captured and saved to ./image_0069.jpg
+2024-08-09 12:56:19,587 INFO:Image ./image_0069.jpg published successfully.
+2024-08-09 12:56:19,717 INFO:Message published with mid 1
+2024-08-09 12:56:30,979 INFO:Image captured and saved to ./image_0070.jpg
+2024-08-09 12:56:30,981 INFO:Image ./image_0070.jpg published successfully.
+2024-08-09 12:56:31,116 INFO:Message published with mid 2
+2024-08-09 12:56:42,407 INFO:Image captured and saved to ./image_0071.jpg
+2024-08-09 12:56:42,410 INFO:Image ./image_0071.jpg published successfully.
+2024-08-09 12:56:42,524 INFO:Message published with mid 3
+2024-08-09 12:56:53,793 INFO:Image captured and saved to ./image_0072.jpg
+2024-08-09 12:56:53,796 INFO:Image ./image_0072.jpg published successfully.
+2024-08-09 12:56:53,906 INFO:Message published with mid 4
+2024-08-09 12:57:05,161 INFO:Image captured and saved to ./image_0073.jpg
+2024-08-09 12:57:05,164 INFO:Image ./image_0073.jpg published successfully.
+2024-08-09 12:57:05,295 INFO:Message published with mid 5
+2024-08-09 12:57:16,518 INFO:Image captured and saved to ./image_0074.jpg
+2024-08-09 12:57:16,521 INFO:Image ./image_0074.jpg published successfully.
+2024-08-09 12:57:16,668 INFO:Message published with mid 6
+2024-08-09 12:57:27,911 INFO:Image captured and saved to ./image_0075.jpg
+2024-08-09 12:57:27,914 INFO:Image ./image_0075.jpg published successfully.
+2024-08-09 12:57:28,045 INFO:Message published with mid 7
+2024-08-09 12:57:39,303 INFO:Image captured and saved to ./image_0076.jpg
+2024-08-09 12:57:39,306 INFO:Image ./image_0076.jpg published successfully.
+2024-08-09 12:57:39,459 INFO:Message published with mid 8
+2024-08-09 12:57:50,699 INFO:Image captured and saved to ./image_0077.jpg
+2024-08-09 12:57:50,703 INFO:Image ./image_0077.jpg published successfully.
+2024-08-09 12:57:50,845 INFO:Message published with mid 9
+2024-08-09 12:58:02,088 INFO:Image captured and saved to ./image_0078.jpg
+2024-08-09 12:58:02,090 INFO:Image ./image_0078.jpg published successfully.
+2024-08-09 12:58:02,228 INFO:Message published with mid 10
+2024-08-09 12:58:13,465 INFO:Image captured and saved to ./image_0079.jpg
+2024-08-09 12:58:13,467 INFO:Image ./image_0079.jpg published successfully.
+2024-08-09 12:58:13,591 INFO:Message published with mid 11
+2024-08-09 12:58:24,811 INFO:Image captured and saved to ./image_0080.jpg
+2024-08-09 12:58:24,813 INFO:Image ./image_0080.jpg published successfully.
+2024-08-09 12:58:24,943 INFO:Message published with mid 12
+2024-08-09 12:58:36,185 INFO:Image captured and saved to ./image_0081.jpg
+2024-08-09 12:58:36,187 INFO:Image ./image_0081.jpg published successfully.
+2024-08-09 12:58:36,322 INFO:Message published with mid 13
+2024-08-09 12:58:47,531 INFO:Image captured and saved to ./image_0082.jpg
+2024-08-09 12:58:47,533 INFO:Image ./image_0082.jpg published successfully.
+2024-08-09 12:58:47,659 INFO:Message published with mid 14
+2024-08-09 12:58:58,909 INFO:Image captured and saved to ./image_0083.jpg
+2024-08-09 12:58:58,911 INFO:Image ./image_0083.jpg published successfully.
+2024-08-09 12:58:59,066 INFO:Message published with mid 15
+2024-08-09 12:59:10,251 INFO:Image captured and saved to ./image_0084.jpg
+2024-08-09 12:59:10,253 INFO:Image ./image_0084.jpg published successfully.
+2024-08-09 12:59:10,386 INFO:Message published with mid 16
+2024-08-09 12:59:21,628 INFO:Image captured and saved to ./image_0085.jpg
+2024-08-09 12:59:21,630 INFO:Image ./image_0085.jpg published successfully.
+2024-08-09 12:59:21,767 INFO:Message published with mid 17
+2024-08-09 12:59:33,022 INFO:Image captured and saved to ./image_0086.jpg
+2024-08-09 12:59:33,024 INFO:Image ./image_0086.jpg published successfully.
+2024-08-09 12:59:33,151 INFO:Message published with mid 18
+2024-08-09 12:59:44,414 INFO:Image captured and saved to ./image_0087.jpg
+2024-08-09 12:59:44,417 INFO:Image ./image_0087.jpg published successfully.
+2024-08-09 12:59:44,540 INFO:Message published with mid 19
+2024-08-09 12:59:55,802 INFO:Image captured and saved to ./image_0088.jpg
+2024-08-09 12:59:55,805 INFO:Image ./image_0088.jpg published successfully.
+2024-08-09 12:59:55,929 INFO:Message published with mid 20
+2024-08-09 13:00:07,166 INFO:Image captured and saved to ./image_0089.jpg
+2024-08-09 13:00:07,168 INFO:Image ./image_0089.jpg published successfully.
+2024-08-09 13:00:07,295 INFO:Message published with mid 21
+2024-08-09 13:00:18,528 INFO:Image captured and saved to ./image_0090.jpg
+2024-08-09 13:00:18,530 INFO:Image ./image_0090.jpg published successfully.
+2024-08-09 13:00:18,673 INFO:Message published with mid 22
+2024-08-09 13:00:29,884 INFO:Image captured and saved to ./image_0091.jpg
+2024-08-09 13:00:29,888 INFO:Image ./image_0091.jpg published successfully.
+2024-08-09 13:00:30,034 INFO:Message published with mid 23
+2024-08-09 13:00:41,279 INFO:Image captured and saved to ./image_0092.jpg
+2024-08-09 13:00:41,282 INFO:Image ./image_0092.jpg published successfully.
+2024-08-09 13:00:41,414 INFO:Message published with mid 24
+2024-08-09 13:00:52,671 INFO:Image captured and saved to ./image_0093.jpg
+2024-08-09 13:00:52,673 INFO:Image ./image_0093.jpg published successfully.
+2024-08-09 13:00:52,808 INFO:Message published with mid 25
+2024-08-09 13:01:04,065 INFO:Image captured and saved to ./image_0094.jpg
+2024-08-09 13:01:04,068 INFO:Image ./image_0094.jpg published successfully.
+2024-08-09 13:01:04,235 INFO:Message published with mid 26
+2024-08-09 13:01:15,458 INFO:Image captured and saved to ./image_0095.jpg
+2024-08-09 13:01:15,461 INFO:Image ./image_0095.jpg published successfully.
+2024-08-09 13:01:15,581 INFO:Message published with mid 27
+2024-08-09 13:01:26,817 INFO:Image captured and saved to ./image_0096.jpg
+2024-08-09 13:01:26,819 INFO:Image ./image_0096.jpg published successfully.
+2024-08-09 13:01:26,946 INFO:Message published with mid 28
+2024-08-09 13:01:38,132 INFO:Image captured and saved to ./image_0097.jpg
+2024-08-09 13:01:38,133 INFO:Image ./image_0097.jpg published successfully.
+2024-08-09 13:01:38,278 INFO:Message published with mid 29
+2024-08-09 13:01:49,414 INFO:Image captured and saved to ./image_0098.jpg
+2024-08-09 13:01:49,416 INFO:Image ./image_0098.jpg published successfully.
+2024-08-09 13:01:49,542 INFO:Message published with mid 30
+2024-08-09 13:02:00,693 INFO:Image captured and saved to ./image_0099.jpg
+2024-08-09 13:02:00,695 INFO:Image ./image_0099.jpg published successfully.
+2024-08-09 13:02:00,809 INFO:Message published with mid 31
